@@ -30,8 +30,8 @@ const vendorName = "xdg.me"
 const appConfigName = "cardproxypdf"
 const cacheDBName = "carddb.json"
 const cacheImageFolder = "images"
-const ringsURLGetAll = "http://ringsdb.com/api/public/cards/"
-const ringsURL = "http://ringsdb.com"
+const ringsURLGetAll = "http://arkhamdb.com/api/public/cards/"
+const ringsURL = "http://arkhamdb.com"
 const ringsImagePrefix = "/bundles/cards/"
 
 var errIgnoreCache = errors.New("cache missing or out of date")
